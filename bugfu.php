@@ -1,1 +1,1 @@
-GHOST Server
+GHOST Server iOS
